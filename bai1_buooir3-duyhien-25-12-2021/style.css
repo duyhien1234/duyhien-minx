@@ -1,0 +1,24 @@
+* {
+}
+h1,
+p {
+  color: red;
+}
+.title {
+  color: springgreen;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+#article-title {
+  font-family: cursive;
+}
+a:hover {
+  color: red;
+}
+/* a:visited {
+  color: violet;
+} */
+a:active {
+  color: yellow;
+}
