@@ -23,8 +23,5 @@ if (operator === "+"){
 
 
 
-
-// using if...else if... else or switch
-
-// display the result
+document.getElementById("ket_qua").innerHTML=result
 console.log(`${number1} ${operator} ${number2} = ${result}`);
